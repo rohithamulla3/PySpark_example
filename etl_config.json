@@ -1,0 +1,6 @@
+{
+  "source_path": "tests/test_data/source_data.csv",
+  "destination_path": "tests/test_data/processed_data",
+  "delimiter": ",",
+  "header": true
+}
